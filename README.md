@@ -2,4 +2,4 @@
 
 [Link](https://thomastale.github.io) for the lazy.
 
-Also on [thomasml.ml](https://thomasml.ml).
+Also on [thomasle.ml](https://thomasle.ml).
